@@ -32,4 +32,8 @@ Majed, M. A., Fatema, A., & Shaik, M. A. M. M. (2019). Android Based Robotic Fir
 Majed, M. A., Fatema, A., & Shaik, M. A. M. M. (2020). Android based Robotic Fire Alert System to Save Fire Victims. Proteus Journal, 11(6), 12–17. doi.org/https://doi.org/10.37896/PJ11.06/072
 
 GitHub Link: https://github.com/Smamuneermogni11 (Projects and Certifications)
-GIS Portfolio: https://storymaps.arcgis.com/stories/8e23c62db225408a9438fdb0602e95c0 
+
+
+GIS Portfolio: 
+
+https://storymaps.arcgis.com/stories/8e23c62db225408a9438fdb0602e95c0 
